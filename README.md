@@ -21,4 +21,14 @@
     <img src="assets/img/calculatrice_gray.JPG" /> 
     <img src="assets/img/calculatrice_light.JPG" />
     <img src="assets/img/calculatrice.JPG" />
+    <img src="assets/img/calculatrice_indigo.JPG" />
+    <img src="assets/img/calculatrice_darkorange.JPG" />
 </p>
+<p style="display:flex;justify-content:space-between">
+    <img src="assets/img/calculatrice_blue.JPG" /> 
+    <img src="assets/img/calculatrice_darkgreen.JPG" />
+    <img src="assets/img/calculatrice_lightblue.JPG" />
+    <img src="assets/img/calculatrice_deeppink.JPG" />
+</p>
+
+#### Ne pas hesiter à forker, lâcher une étoile et/ou telecharger le projet.
