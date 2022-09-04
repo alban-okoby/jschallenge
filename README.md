@@ -17,4 +17,8 @@
 </ul>
 
 ##### Aperçu 
-<img src="assets/img/calculatrice.JPG" />
+<p>
+    <img src="assets/img/calculatrice_gray.JPG" /> 
+    <img src="assets/img/calculatrice_light.JPG" />
+    <img src="assets/img/calculatrice.JPG" />
+</p>
