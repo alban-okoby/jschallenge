@@ -6,3 +6,5 @@
     <li>Division</li>
     <li> Modulo </li>
 </ul>
+
+<img src="assets/img/calculatrice.JPG" />
