@@ -12,7 +12,7 @@ body{
   padding: 0 10px;
   justify-content: center;
   min-height: 100vh;
-  background: linear-gradient(#270a8f, #291964);
+  background: url('images/closeup-shot-cute-elephant-walking-dry-grass-wilderness.jpg');
 }
 .wrapper{
   width: 450px;
@@ -96,7 +96,7 @@ header .current-date{
   transform: translate(-50%, -50%);
 }
 .days li.active::before{
-  background: #1a23a8dd;
+  background: #1744d9dd;
 }
 .days li:not(.active):hover::before{
   background: #f2f2f2;
