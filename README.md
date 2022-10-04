@@ -1,5 +1,5 @@
 ## Projet 2 
-### (js_calendar branch): Développement d'un calendrier dynamique
+### Développement d'un calendrier dynamique (js_calendar branch)
 
 <a href="https://github.com/alban-okoby/jschallenge/tree/js_calendar"> Projet 2 </a>
 
@@ -25,7 +25,7 @@
 
 ## Projet 1 
 ### Développement d'une calculatrice avec les fonctionnalités de bases
-<a href="https://github.com/alban-okoby/jschallenge/tree/main"> Projet 2 </a>
+<a href="https://github.com/alban-okoby/jschallenge/tree/main"> Projet 1 </a>
 ### Parties terminées 
 <ul>
     <li> Squellete (html) </li>
