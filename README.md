@@ -17,7 +17,6 @@
 
 ##### Aperçu 
 <p style="display:flex;justify-content:space-between">
-    <img src="assets/images/calendar.PNG" /> 
     <img src="assets/images/calendar1.PNG" /> 
 </p>
 
