@@ -1,52 +1,37 @@
 <!DOCTYPE html>
-<html lang="fr">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Developper une calculatrice avec les technlogies Html, Css et JavaScript</title>
+<!-- Coding By CodingNepal - youtube.com/codingnepal -->
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Dynamic Calendar JavaScript | CodingNepal</title>
     <link rel="stylesheet" href="assets/style.css">
-    <link rel="shortcut icon" href="assets/img/calculatrice.JPG" type="image/x-icon">
-</head>
-
-<body>
-    <section>
-        <section class="container">
-            <div class="calculator">
-                <div class="display">
-                    <div class="display-1">0</div>
-                    <div class="border">
-                        <div class="display-2">0</div>
-                    </div>
-                    <div class="result"></div>
-                </div>
-                <div class="buttons">
-                    <div class="button all-clear">C</div>
-                    <div class="button last-entity-clear">CE</div>
-                    <div class="button operation">%</div>
-                    <div class="button operation">/</div>
-                    <div class="button number">7</div>
-                    <div class="button number">8</div>
-                    <div class="button number">9</div>
-                    <div class="button operation">x</div>
-                    <div class="button number">4</div>
-                    <div class="button number">6</div>
-                    <div class="button number">6</div>
-                    <div class="button operation">-</div>
-                    <div class="button number">1</div>
-                    <div class="button number">2</div>
-                    <div class="button number">3</div>
-                    <div class="button operation">+</div>
-                    <div class="button btn-0 number">0</div>
-                    <div class="button number dot">.</div>
-                    <div></div>
-                    <div class="button equal">=</div>
-                </div>
-            </div>
-        </section>
-    </section>
-    <script src="assets/script.js"></script>
-</body>
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Google Font Link for Icons -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200">
+    <script src="assets/script.js" defer></script>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <p class="current-date"></p>
+        <div class="icons">
+          <span id="prev" class="material-symbols-rounded">chevron_left</span>
+          <span id="next" class="material-symbols-rounded">chevron_right</span>
+        </div>
+      </header>
+      <div class="calendar">
+        <ul class="weeks">
+          <li>Dim</li>
+          <li>Lun</li>
+          <li>Mar</li>
+          <li>Mer</li>
+          <li>Jeu</li>
+          <li>Ven</li>
+          <li>Sam</li>
+        </ul>
+        <ul class="days"></ul>
+      </div>
+    </div>
+    
+  </body>
 </html>
