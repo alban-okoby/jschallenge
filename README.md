@@ -1,4 +1,4 @@
-### PROJET 2 (js_calendar branch): Développement d'un calendrier dynamique
+### PROJET 2 : Développement d'un calendrier dynamique
 
 ### technologies impliquées 
 <ul>
