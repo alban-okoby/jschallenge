@@ -1,5 +1,31 @@
-### Développement d'une calculatrice avec les fonctionnalités de bases
+## Projet 2 
+### (js_calendar branch): Développement d'un calendrier dynamique
 
+<a href="https://github.com/alban-okoby/jschallenge/tree/js_calendar"> Projet 2 </a>
+
+### technologies impliquées 
+<ul>
+    <li> html </li>
+    <li> css</li>
+    <li> JS</li>
+</ul>
+
+#### Features du calendrier 
+<ul>
+    <li>Désigne la date du jour </li>
+    <li>Actualisation automatique de la date</li>
+    <li>Permet de voir les prochain mois  </li>
+    <li>Permet de voir les prochain années  </li>
+</ul>
+
+##### Aperçu 
+<p style="display:flex;justify-content:space-between">
+    <img src="assets/img/calendar1.PNG" /> 
+</p>
+
+## Projet 1 
+### Développement d'une calculatrice avec les fonctionnalités de bases
+<a href="https://github.com/alban-okoby/jschallenge/tree/main"> Projet 2 </a>
 ### Parties terminées 
 <ul>
     <li> Squellete (html) </li>
